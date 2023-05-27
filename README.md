@@ -43,10 +43,6 @@ python scrape.py
 
 The script will start scraping the product data from Amazon India. The extracted data will be stored in an Excel file named "scraped_data.xlsx" in the same directory.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Contributions
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
