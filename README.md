@@ -31,14 +31,11 @@ pip install -r requirements.txt
 
 ### Running the Script
 
-1. Clone the repository:
-git clone [repository-url]
+1. Clone the repository
 
-2. Navigate to the project directory:
-cd amazon-product-scraper
+2. Navigate to the project directory
 
-3. Run the script:
-python scrape.py
+3. Run the script
 
 
 The script will start scraping the product data from Amazon India. The extracted data will be stored in an Excel file named "scraped_data.xlsx" in the same directory.
