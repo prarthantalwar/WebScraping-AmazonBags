@@ -90,5 +90,5 @@ data = {
 df = pd.DataFrame(data)
 
 # Exporting DataFrame to CSV
-df.to_excel('scraped_data.xlxs', index=False)
+df.to_excel('scraped_data.csv', index=False)
 
