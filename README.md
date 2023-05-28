@@ -38,7 +38,7 @@ pip install -r requirements.txt
 3. Run the script
 
 
-The script will start scraping the product data from Amazon India. The extracted data will be stored in an Excel file named "scraped_data.xlsx" in the same directory.
+The script will start scraping the product data from Amazon India. The extracted data will be stored in an Excel file named "scraped_data.csv" in the same directory.
 
 ## Contributions
 
