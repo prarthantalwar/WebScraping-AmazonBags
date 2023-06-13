@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 2. Navigate to the project directory.
 
-3. Open the Python script file (`scraper.py`) and update the `url` variable in the `for` loop to target your desired product category.
+3. Open the Python script file (`scrape.py`) and update the `url` variable in the `for` loop to target your desired product category.
 
 4. Run the script using the following command:
 python scraper.py
