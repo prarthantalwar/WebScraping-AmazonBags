@@ -54,5 +54,5 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Exporting DataFrame to CSV
+# Exporting DataFrame to excel
 df.to_excel('scraped_data.xlsx', index=False)
